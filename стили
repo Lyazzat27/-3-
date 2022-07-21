@@ -1,0 +1,29 @@
+
+body {
+  font-size: 15px;
+  color: rgba(34, 33, 33, 0.884);
+  background-color:green;
+  font-family: pointsoft;
+}
+
+#header-nav {
+  background-color:#98759;
+ 
+}
+
+.navbar-brand h1 {
+  font-family: pointsoft;
+  color: black;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  line-height: .75;
+}
+
+#nav-list a {
+  color:black;
+  font-weight: bold;
+}
+
